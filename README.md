@@ -1,5 +1,5 @@
 # E-Yatra
-This project was developed using Netbeans IDE and MySQL.
+This project was developed using NetBeans IDE and MySQL.
 
 It is to fetch, book train tickets on the client side and admins can add trains available and their timmings etc.
 
